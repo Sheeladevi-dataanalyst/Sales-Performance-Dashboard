@@ -25,11 +25,17 @@ Analyzed trends, identified key business insights, and presented findings throug
 
 ## Project Insights:
 1.Identified top-performing products and categories contributing the highest revenue
+
 2.Observed seasonal trends in sales, helping understand peak business periods
+
 3.Analyzed customer purchasing behavior, including frequent buyers and order patterns
+
 4.Detected delayed orders, highlighting areas for operational improvement
+
 5.Evaluated product ratings and feedback to understand customer satisfaction
+
 6.Found opportunities to improve low-performing products and regions
+
 7.Helped track key KPIs like total sales, profit, and order volume in real time
 
 ## Final Conclusion
